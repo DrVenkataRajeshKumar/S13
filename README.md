@@ -1,6 +1,6 @@
 # S13
 
-for assignment A:   smallcoco was used to detect object from coco dataset
+for assignment A:   Smallcoco was used to detect object from coco dataset
 
 ![Image](https://github.com/DrVenkataRajeshKumar/S13/blob/master/Yolo.Ann.png)
 
