@@ -1,7 +1,7 @@
 # S13
 
 ## For assignment A:   
-Smallcoco was used to detect object from coco dataset
+YOLO-V3 OpenCV was used to detect object from coco dataset
 
 ![Image](https://github.com/DrVenkataRajeshKumar/S13/blob/master/Yolo.Ann.png)
 
