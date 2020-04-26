@@ -7,7 +7,7 @@ YOLO-V3 OpenCV was used to detect object from coco dataset
 
 
 ## For assignment B:   
-500 dragon images were collected and using annotation tool annotated.  Dragon data was trained for 300 epochs.  Game of thrones video were tested for detection for Dragons. videos were shared in youtube channel. 
+500 dragon images were collected uploaded to Github along with Yolo-V3. Images were annotated using annotation tool.  Dragon data was trained for 300 epochs.  Game of thrones videos were tested for detection for Dragons. videos were shared in youtube channel. 
 
 https://youtu.be/0S0jHnvjpyg
 
